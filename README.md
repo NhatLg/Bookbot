@@ -1,2 +1,3 @@
 # Bookbot
-BookBot aims to:
+BookBot is my first project!
+
